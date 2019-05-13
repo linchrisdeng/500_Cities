@@ -1,0 +1,12 @@
+name: 500Cities
+title: 500Cities
+username:
+account: deng0068
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 915228
+bundleId: 2066938
+url: https://deng0068.shinyapps.io/500Cities/
+when: 1557244627.21228
+asMultiple: FALSE
+asStatic: FALSE
